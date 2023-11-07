@@ -12,4 +12,5 @@ It is meant to show my improvement in C programming and writing logic in code.
   Players can move 1 tile in 4 directions.
   Movement that ends on a water tile, other penguin or outside of the board is prohibited.
   Players can play against simple AI - player settings are set at the beginning with the user input.
+  Saving to txt files was removed, since it was troublesome and made no sense for such a short game time.
   The game ends when no player can make a move.
